@@ -1,9 +1,9 @@
 resource "aws_iam_group" "texas_group" {
-  name = "TTTexas"
+  name = "TTTTexas"
 }
 
 resource "aws_iam_user" "caleb_user" {
-  name = "Caleb-Anarika"
+  name = "CCaleb-Anarika"
 }
 
 
